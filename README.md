@@ -16,4 +16,4 @@ LX45.  This is using Xilinx specific HW in the FPGA so parting to non-Xilinx FPG
 Building a GPU for retro computer builds.  This GPU will interface to modern monitors (HDMI/DVI) but provide a bus interface 
 compatible with 68k processors.  It will have dedicated GPU memory for simplicity of the computer architecture.
 
-Want to Thank Mike Fields for his work to create the initial source used to generate the DVI signal generation.  
+Want to Thank Mike Field @hamsternz for his work to create the initial source used to generate the DVI signal generation.  
